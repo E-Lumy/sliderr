@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![sliderr](https://github.com/youssefbarj/sliderr/raw/main/screenshot.png)
+![sliderr](https://raw.githubusercontent.com/youssefbarj/sliderr/main/screenshot.png)
 
 ## What this slide does
 
